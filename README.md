@@ -14,18 +14,6 @@ LSG Progressive Bar is a WordPress plugin that adds a customizable progress bar 
 2. Place the `progressbar` folder in your WordPress `wp-content/plugins` directory.
 3. Activate the plugin from the WordPress admin dashboard.
 
-## File Structure
-
-progressbar/ 
-├── assets/ 
-│ ├── css/ │ │ └── style.css 
-│ ├── js/ 
-│ │ ├── progress-bar.js 
-│ │ └── block-registration.js 
-├── progress-bar.php 
-├── README.md
-
-
 ## Usage
 1. Add the block `custom/freeshiping` to your page or post.
 2. The progress bar will automatically update based on the cart subtotal.
