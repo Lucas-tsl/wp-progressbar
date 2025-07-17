@@ -38,10 +38,6 @@ Lucas Troteseil
 
 
 
-GitHub Copilot
-README.md
-Create a README.md file to document the plugin.
-
 
 
 ## License
